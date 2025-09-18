@@ -27,6 +27,6 @@ Strengthen on-board service through crew training and consistency.
 Design better experiences for first-time and leisure travelers to rebuild trust.  
 
 ## Repository Contents
-Dano_Airlines_Analysis.xlsx → Full Excel analysis and pivot tables.  
-Dano_Airlines_Report.pdf → Executive summary with recommendations.  
-dashboard_screenshot.png → Visualization of satisfaction drivers.
+→ [Full Excel analysis and pivot tables.](Airline data.xlsb)  
+→ [Executive summary with recommendations.](Dano Report.pdf)    
+→ [Visualization.](Airline Data Dashboard.png)
