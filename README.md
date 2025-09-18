@@ -27,6 +27,6 @@ Strengthen on-board service through crew training and consistency.
 Design better experiences for first-time and leisure travelers to rebuild trust.  
 
 ## Repository Contents
-→ [Full Excel analysis and pivot tables.](Airline data.xlsb)  
-→ [Executive summary with recommendations.](Dano Report.pdf)    
-→ [Visualization.](Airline Data Dashboard.png)
+→ [Full Excel analysis and pivot tables.]
+→ [Executive summary with recommendations.]    
+→ [Visualization.]
